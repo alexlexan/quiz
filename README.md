@@ -1,10 +1,12 @@
 ## Quiz
+Serverless Single Page Application на material design с Firebase
 
 Технологии:
 React,
 Redux,
 TypeScript,
-SASS
+SASS,
+Firebase
 
 Приложение состоит из двух частей: общей и администраторской.
 
